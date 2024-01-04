@@ -33,4 +33,4 @@ A personal portfolio website built with React.js, Vite, and CSS to showcase my s
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YourUsername/Portfolio
+   git clone https://github.com/RohithBhat19/My_Portfolio
