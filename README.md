@@ -11,8 +11,9 @@ A personal portfolio website built with React.js, Vite, and CSS to showcase my s
 
 ## Live Demo
 
-![Portfolio](https://github.com/YourUsername/Portfolio/assets/screenshots/portfolio-screenshot.png)
-[Live Demo](https://your-portfolio-url.netlify.app/)
+![Portfolio!](https://github.com/RohithBhat19/My_Portfolio/assets/88024795/34a2703d-6a11-4a23-a113-85be5c5299c2)
+
+[Live Demo](https://mellow-dango-1ecf5f.netlify.app/)
 
 ## Technologies Used
 
@@ -23,7 +24,7 @@ A personal portfolio website built with React.js, Vite, and CSS to showcase my s
 ## Features
 
 - Responsive and modern design.
-- Showcase of skills, projects, and experience.
+- Showcase of skills, projects, and certifications.
 - Interactive user interface using React.
 - Fast and efficient development with Vite.
 
