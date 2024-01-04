@@ -1,0 +1,59 @@
+[
+    {
+      "title": "Amazon Clone",
+      "imageSrc": "projects/AmazonClone.png",
+      "description": "Built a responsive Amazon Clone replicating the e-commerce platform's layout.",
+      "skills": ["HTML","CSS"],
+      "demo": "https://glittering-speculoos-085177.netlify.app/",
+      "source": "https://github.com/RohithBhat19/AmazonClone"
+    },
+    {
+      "title": "Password Manager",
+      "imageSrc": "projects/PasswordManager.png",
+      "description": "Designed password manager to securely store and manage login credentials.",
+      "skills": ["HTML","CSS","JavaScript"],
+      "demo": "https://glowing-toffee-eefeb5.netlify.app/",
+      "source": "https://github.com/RohithBhat19/PasswordManager"
+    },
+    {
+      "title": "Email Validator",
+      "imageSrc": "projects/EmailValidator.png",
+      "description": "Built email validator using emailvalidation API to check validity and format of email addresses.",
+      "skills": ["HTML","CSS","JavaScript"],
+      "demo": "https://transcendent-begonia-2980fd.netlify.app/",
+      "source": "https://github.com/RohithBhat19/EmailValidator"
+    },
+    {
+        "title": "Shop Zone",
+        "imageSrc": "projects/shopzone.jpg",
+        "description": "Created Shop Zone using React.js for a smooth and interactive online shopping experience.",
+        "skills": ["React.js","CSS"],
+        "demo": "https://sprightly-wisp-b4c993.netlify.app/",
+        "source": "https://github.com/RohithBhat19/Shop-Zone"
+      },
+      {
+        "title": "Chat App",
+        "imageSrc": "projects/chat.png",
+        "description": "Built a Chat Application using React.js, Firebase enabling users to exchange messages instantly.",
+        "skills": ["React.js","Chakra Ui"],
+        "demo": "https://dancing-taiyaki-c5b77f.netlify.app/",
+        "source": "https://github.com/RohithBhat19/ChatApp"
+      },
+      {
+        "title": "Daily Goals",
+        "imageSrc": "projects/daily.png",
+        "description": "Developed a Todo List application with React.js for efficient task management and organization.",
+        "skills": ["React.js","CSS"],
+        "demo": "https://resonant-beignet-5bbc8b.netlify.app/",
+        "source": "https://github.com/RohithBhat19/ToDO"
+      },
+      {
+        "title": "Tic-Tac-Toe",
+        "imageSrc": "projects/game.png",
+        "description": "Built a Tic-Tac-Toe game using React for an engaging and interactive gaming experience.",
+        "skills": ["React.js","CSS"],
+        "demo": "https://657c5395ef90c41583aa9cab--amazing-frangollo-8ab51b.netlify.app/",
+        "source": "https://github.com/RohithBhat19/Tic-Tac-Toe"
+      }
+      
+  ]

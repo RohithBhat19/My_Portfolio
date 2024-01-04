@@ -1,0 +1,83 @@
+@import "../../vars.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+  box-shadow: 0 16px 14px 0 #04152d;
+  padding: 18px 24px;
+  max-width: 345px;
+  height: 100%; /* Set a fixed height for the card */
+}
+
+.image {
+    height: 300px;
+
+  margin-bottom: 26px;
+  max-width: 100%; /* Ensure the image doesn't exceed the container width */
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 6px;
+  overflow: hidden; /* Hide overflow text */
+  text-overflow: ellipsis; /* Display an ellipsis (...) to indicate overflow */
+  white-space: nowrap; /* Prevent text from wrapping to the next line */
+}
+
+.description {
+  font-size: 18px; /* Adjust font size as needed */
+  font-weight: 400;
+  flex-grow: 1; /* Allow the description to take up the remaining space */
+  overflow: hidden; /* Hide overflow text */
+  text-overflow: ellipsis; /* Display an ellipsis (...) to indicate overflow */
+}
+
+.skills {
+  width: 100%;
+  margin-top: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+}
+
+.skill {
+  font-size: 16px; /* Adjust font size as needed */
+  font-weight: 400;
+  border-radius: 100px;
+  background: var(--color-dark);
+  padding: 2px 12px;
+  margin-right: 6px;
+  margin-bottom: 6px;
+}
+
+.links {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 12px;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 18px; /* Adjust font size as needed */
+  font-weight: 600;
+  border-radius: 100px;
+  background: var(--color-primary);
+  padding: 1px 22px;
+  text-align: center;
+  white-space: nowrap; /* Prevent text from wrapping to the next line */
+  overflow: hidden; /* Hide overflow text */
+  text-overflow: ellipsis; /* Display an ellipsis (...) to indicate overflow */
+}
+@media screen and (max-width: 768px) {
+    .slick-slide {
+      width: 100% !important;
+      margin-right: 0 !important;
+      height: auto !important;
+    }
+  }
